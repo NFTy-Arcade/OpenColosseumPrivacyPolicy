@@ -1,5 +1,4 @@
 # OpenColosseumPrivacyPolicy
-Privacy Policy
 
 Effective Date: 05/19/2024
 
